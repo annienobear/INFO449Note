@@ -1,2 +1,0 @@
-# INFO449Note
-checkout:
